@@ -1,4 +1,4 @@
 # SNPSUcollege_KishoreKumar
 Uploading all my college projects which were presented in college software expo
 <br>
-Author:- Kishore Kumar S N
+Author:- Kishore Kumar S N (SNPSU)
